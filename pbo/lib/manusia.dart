@@ -1,0 +1,3 @@
+class Manusia {
+  String nama;
+}
